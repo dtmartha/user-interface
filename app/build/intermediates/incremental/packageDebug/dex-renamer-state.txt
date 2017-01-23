@@ -1,0 +1,7 @@
+#Sun Jan 22 21:17:41 CET 2017
+base.0=C\:\\Users\\gebruiker\\Google Drive\\programmeren\\android\\inleiding-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2c2e9782591c339b91c56753922c73872427cb2b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gebruiker\\Google Drive\\programmeren\\android\\inleiding-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9308c22e252d6cb4c344ea8f84e0208d5bb4d255\\classes.dex
+base.1=C\:\\Users\\gebruiker\\Google Drive\\programmeren\\android\\inleiding-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9308c22e252d6cb4c344ea8f84e0208d5bb4d255
+file.0=C\:\\Users\\gebruiker\\Google Drive\\programmeren\\android\\inleiding-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2c2e9782591c339b91c56753922c73872427cb2b\\classes.dex

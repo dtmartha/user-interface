@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_user_interface"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b3b3b3"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.gebruiker.inleiding_android.user_interface">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:paddingBottom="16dp"
+        android:src="@drawable/logo"
+
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:paddingBottom="16dp"
+        android:paddingLeft="20dp"
+        android:text="Welkom bij autodealer King of the cars. Wij zijn blij dat we u kunnen verwelkomen in onze gloednieuwe app !"
+        android:textColor="@android:color/black"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:paddingLeft="20dp"
+        android:text="Wie zijn wij?"
+        android:textColor="@android:color/white"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView1"
+        android:paddingBottom="16dp"
+        android:paddingLeft="20dp"
+        android:text="Een gloednieuwe autodealer die zich heeft gevestigd in Almere. Wij gaan altijd tot het uiterste voor een goed resultaat !"
+        android:textColor="@android:color/black"
+        android:textSize="16dp" />
+
+    <ImageView
+        android:id="@+id/groepsfoto"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:layout_below="@+id/textView2"
+        android:src="@drawable/dbsg1"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/groepsfoto"
+        android:paddingLeft="50dp"
+        android:text="Oprichters king of the cars."
+        android:textColor="@android:color/black"
+        android:textSize="15dp" />
+
+
+</RelativeLayout>
